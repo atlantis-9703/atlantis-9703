@@ -13,7 +13,7 @@ My main focus is backend architecture, system design, and performance optimizati
 </p>
 
 <ul>
-  <li>💻 <b>Experience:</b> Specialized in <b>[Ngôn ngữ chính]</b> and cloud infrastructure (Azure)</li>
+  <li>💻 <b>Experience:</b> Specialized in <b>Backend Developer</b> and cloud infrastructure (Azure)</li>
   <li>🚀 <b>Focus:</b> Building reliable backend systems and scalable web applications</li>
   <li>🎯 <b>Goal:</b> Contributing to open-source projects and mentoring junior developers</li>
   <li>📫 <b>Connect with me:</b> <a href="www.linkedin.com/in/ndmthuan97">LinkedIn</a> | <a href="mailto:ndmthuan.97@gmail.com">Email</a></li>
