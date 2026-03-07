@@ -33,14 +33,6 @@ My main focus is backend architecture, system design, and performance optimizati
 </br>
 
 <div align="center">
-<a href="https://github.com/ndmthuan97/github-stats#gh-dark-mode-only">
-	<img src="https://github.com/ndmthuan97/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-	<img src="https://github.com/ndmthuan97/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-</div>
-
-<div align="center">
   <img src="dog.gif" width="200" />
 </div>
 
