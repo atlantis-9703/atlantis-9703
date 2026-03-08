@@ -33,6 +33,6 @@ My main focus is backend architecture, system design, and performance optimizati
 </br>
 
 <div align="center">
-  <img src="cat.gif" width="200" />
+  <img src="pikachu.png" width="200" />
 </div>
 
